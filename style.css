@@ -1,0 +1,18 @@
+nav {
+    background-color: #333;
+    margin-bottom: 20px;
+}
+header h1 {
+    font-size: 70px;
+    font-weight: bold;
+  }
+  nav{
+      background-color: light gray;
+      margin-bottom: 30px;
+  }
+
+  nav ul li{
+      display: inline-block;
+      padding: 30px;
+      color: while;
+  }
